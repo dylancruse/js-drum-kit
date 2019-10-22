@@ -1,4 +1,4 @@
-# 🥁 JavaScript Drum Kit 🎼
+# 🥁  JavaScript Drum Kit  🎼
 
 View project in browser: https://dylancruse.github.io/js-drum-kit/
 
